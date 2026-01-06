@@ -38,11 +38,3 @@ Focused on the React ecosystem and building AI-assisted frontend applications.
 
 - **[Mini-Antd-Core](https://github.com/Lottie-l/mini-antd-core)**  
   手写 UI 组件库，重点攻克表单状态管理和校验逻辑，复刻 Ant Design 的 Button 组件，注重工程化和可维护性。
-
----
-
-### 📊 GitHub 统计
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lottie-l&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lottie-l&layout=compact&theme=radical" height="160" />
-</p>
