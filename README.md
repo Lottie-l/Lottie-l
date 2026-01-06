@@ -4,8 +4,7 @@ Focused on the React ecosystem and building AI-assisted frontend applications.
 
 🌱 Exploring AI, Deep Learning, and LLMs in frontend systems.
 
-📫 How to reach me:  
-ll010428@163.com | 19982039847  
+📫 How to reach me:  ll010428@163.com | 19982039847  
 😄 Always building, always learning.
 
 ---
