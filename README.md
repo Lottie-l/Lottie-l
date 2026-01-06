@@ -34,8 +34,8 @@ ll010428@163.com | 19982039847
 
 ## 📂 核心项目
 
-- **[AI-Chat-Assistant](https://github.com/Lottie-l/AI-Chat)**  
-  基于 React 的 AI 聊天应用，实现了 SSE 流式渲染、复杂消息状态管理及模块化 UI 设计，采用 TypeScript 和 Hooks 开发。
+- **[AI-Chat](https://github.com/Lottie-l/AI-Chat)**  
+  基于 React 的 AI 聊天应用
 
 - **[Mini-Antd-Core](https://github.com/Lottie-l/mini-antd-core)**  
   手写 UI 组件库，重点攻克表单状态管理和校验逻辑，复刻 Ant Design 的 Button 组件，注重工程化和可维护性。
