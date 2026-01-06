@@ -7,7 +7,7 @@ Focused on the React ecosystem and building AI-assisted frontend applications.
 📫 How to reach me: ll010428@163.com | 19982039847  
 😄 Always building, always learning.
 
-
+---
 
 ## 🧩 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,11 +25,11 @@ Focused on the React ecosystem and building AI-assisted frontend applications.
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 🧠 AI 
+### 🧠 AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-
+---
 
 ## 📂 核心项目
 
@@ -38,7 +38,6 @@ Focused on the React ecosystem and building AI-assisted frontend applications.
 
 - **[Mini-Antd-Core](https://github.com/Lottie-l/mini-antd-core)**  
   手写 UI 组件库，重点攻克表单状态管理和校验逻辑，复刻 Ant Design 的 Button 组件，注重工程化和可维护性。
-
 
 ---
 
