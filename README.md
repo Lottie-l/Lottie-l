@@ -10,6 +10,16 @@ ll010428@163.com | 19982039847
 
 ---
 
+## 📂 核心项目
+
+- **[AI-Chat](https://github.com/Lottie-l/AI-Chat)**  
+  基于 React 的 AI 聊天应用
+
+- **[Mini-Antd-Core](https://github.com/Lottie-l/mini-antd-core)**  
+  手写 UI 组件库，重点攻克表单状态管理和校验逻辑，复刻 Ant Design 的 Button 组件，注重工程化和可维护性。
+
+---
+
 ## 🧩 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
