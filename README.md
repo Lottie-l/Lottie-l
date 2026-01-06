@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lottie-l
+# 👋 Hi, I'm Lottie
 
 Focused on the React ecosystem and building AI-assisted frontend applications.
 
